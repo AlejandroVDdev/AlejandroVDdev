@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlejandroVDdev
 - 👀 I’m interested in web & video game development.
-- 🌱 I’m currently learning Htmml, css, js, C#.
+- 🌱 I’m currently learning Html, css, js, C#.
 - 💼 I’m not looking for job at the moment.
 
 <!---
